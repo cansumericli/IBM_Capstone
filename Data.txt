@@ -1,0 +1,17 @@
+DATA
+
+Data Sources
+
+Neighborhood data will be scraped from the links below by using BeautifulSoup and Request library with Prettify function. 
+Toronto: https://en.wikipedia.org/wiki/List_of_neighbourhoods_in_Toronto
+Denver: https://en.wikipedia.org/wiki/List_of_neighborhoods_in_Denver
+These libraries below is required to complete this project:
+Pandas: For creating and manipulating data frames.
+Folium: Python visualization to visualize the neighborhoods cluster distribution of using interactive leaflet map.
+Scikit Learn: For K-Mean clustering.
+JSON: For importing JSON data.
+XML: For scraping data from the web site.
+Geocoder: To retrieve Location Data.
+Matplotlib: Python Plotting Module.
+
+
